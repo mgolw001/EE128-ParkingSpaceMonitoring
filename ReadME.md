@@ -17,6 +17,8 @@ This project is a small scale Parking Space Monitoring System similar to one tha
 ![](images/schematic.png)
 
 ## Implementation
+[Demonstration Video](https://youtu.be/9kGqMalitcI)
+
 ![](images/setup.jpg)
 ![](images/lcd.jpg)
 ![](images/insidesetup.jpg)
